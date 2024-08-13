@@ -27,7 +27,7 @@ Running the Application
 Start the back-end server:
 
 cd server
-npm start The server will run on http://localhost:5000 by default.
+npm start The server will run on http://localhost:5001 by default.
 Start the front-end application: cd ../client npm start The React application will run on http://localhost:3000 by default.
 
 API Endpoints
